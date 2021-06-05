@@ -42,12 +42,12 @@
 <h2 color="#ffb86c">Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#559](https://github.com/dracula/dracula-theme/issues/559) in [dracula/dracula-theme](https://github.com/dracula/dracula-theme)
-2. ❗️ Closed issue [#1](https://github.com/windows-bad/polybar-player/issues/1) in [windows-bad/polybar-player](https://github.com/windows-bad/polybar-player)
-3. 🗣 Commented on [#40](https://github.com/SRCF/docs/issues/40) in [SRCF/docs](https://github.com/SRCF/docs)
+1. 🗣 Commented on [#185](https://github.com/flazz/vim-colorschemes/issues/185) in [flazz/vim-colorschemes](https://github.com/flazz/vim-colorschemes)
+2. 🗣 Commented on [#559](https://github.com/dracula/dracula-theme/issues/559) in [dracula/dracula-theme](https://github.com/dracula/dracula-theme)
+3. ❗️ Closed issue [#1](https://github.com/windows-bad/polybar-player/issues/1) in [windows-bad/polybar-player](https://github.com/windows-bad/polybar-player)
 4. 🗣 Commented on [#40](https://github.com/SRCF/docs/issues/40) in [SRCF/docs](https://github.com/SRCF/docs)
 5. 🗣 Commented on [#40](https://github.com/SRCF/docs/issues/40) in [SRCF/docs](https://github.com/SRCF/docs)
 6. 🗣 Commented on [#40](https://github.com/SRCF/docs/issues/40) in [SRCF/docs](https://github.com/SRCF/docs)
-7. 💪 Opened PR [#40](https://github.com/SRCF/docs/pull/40) in [SRCF/docs](https://github.com/SRCF/docs)
+7. 🗣 Commented on [#40](https://github.com/SRCF/docs/issues/40) in [SRCF/docs](https://github.com/SRCF/docs)
 8. 💪 Opened PR [#2](https://github.com/smh-my-head/hades/pull/2) in [smh-my-head/hades](https://github.com/smh-my-head/hades)
 <!--END_SECTION:activity-->
