@@ -42,12 +42,12 @@
 <h2 color="#ffb86c">Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#185](https://github.com/flazz/vim-colorschemes/issues/185) in [flazz/vim-colorschemes](https://github.com/flazz/vim-colorschemes)
-2. 🗣 Commented on [#559](https://github.com/dracula/dracula-theme/issues/559) in [dracula/dracula-theme](https://github.com/dracula/dracula-theme)
-3. ❗️ Closed issue [#1](https://github.com/windows-bad/polybar-player/issues/1) in [windows-bad/polybar-player](https://github.com/windows-bad/polybar-player)
-4. 🗣 Commented on [#40](https://github.com/SRCF/docs/issues/40) in [SRCF/docs](https://github.com/SRCF/docs)
-5. 🗣 Commented on [#40](https://github.com/SRCF/docs/issues/40) in [SRCF/docs](https://github.com/SRCF/docs)
-6. 🗣 Commented on [#40](https://github.com/SRCF/docs/issues/40) in [SRCF/docs](https://github.com/SRCF/docs)
-7. 🗣 Commented on [#40](https://github.com/SRCF/docs/issues/40) in [SRCF/docs](https://github.com/SRCF/docs)
-8. 💪 Opened PR [#2](https://github.com/smh-my-head/hades/pull/2) in [smh-my-head/hades](https://github.com/smh-my-head/hades)
+1. 🗣 Commented on [#2](https://github.com/dracula/solidworks/issues/2) in [dracula/solidworks](https://github.com/dracula/solidworks)
+2. 🗣 Commented on [#2](https://github.com/dracula/solidworks/issues/2) in [dracula/solidworks](https://github.com/dracula/solidworks)
+3. 🗣 Commented on [#2](https://github.com/dracula/solidworks/issues/2) in [dracula/solidworks](https://github.com/dracula/solidworks)
+4. ❗️ Closed issue [#3](https://github.com/dracula/libreoffice/issues/3) in [dracula/libreoffice](https://github.com/dracula/libreoffice)
+5. 🗣 Commented on [#3](https://github.com/dracula/libreoffice/issues/3) in [dracula/libreoffice](https://github.com/dracula/libreoffice)
+6. ❗️ Closed issue [#2](https://github.com/dracula/libreoffice/issues/2) in [dracula/libreoffice](https://github.com/dracula/libreoffice)
+7. 🗣 Commented on [#2](https://github.com/dracula/libreoffice/issues/2) in [dracula/libreoffice](https://github.com/dracula/libreoffice)
+8. 🗣 Commented on [#499](https://github.com/dracula/dracula-theme/issues/499) in [dracula/dracula-theme](https://github.com/dracula/dracula-theme)
 <!--END_SECTION:activity-->
