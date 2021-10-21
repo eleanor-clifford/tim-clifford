@@ -42,9 +42,9 @@
 <h2 color="#ffb86c">Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/dracula/xournalpp/issues/2) in [dracula/xournalpp](https://github.com/dracula/xournalpp)
-2. 🗣 Commented on [#2](https://github.com/dracula/xournalpp/issues/2) in [dracula/xournalpp](https://github.com/dracula/xournalpp)
-3. 🗣 Commented on [#3](https://github.com/dracula/libreoffice/issues/3) in [dracula/libreoffice](https://github.com/dracula/libreoffice)
+1. 🗣 Commented on [#3](https://github.com/dracula/libreoffice/issues/3) in [dracula/libreoffice](https://github.com/dracula/libreoffice)
+2. ❗️ Closed issue [#2](https://github.com/dracula/xournalpp/issues/2) in [dracula/xournalpp](https://github.com/dracula/xournalpp)
+3. 🗣 Commented on [#2](https://github.com/dracula/xournalpp/issues/2) in [dracula/xournalpp](https://github.com/dracula/xournalpp)
 4. 🗣 Commented on [#2](https://github.com/dracula/solidworks/issues/2) in [dracula/solidworks](https://github.com/dracula/solidworks)
 5. 🗣 Commented on [#2](https://github.com/dracula/solidworks/issues/2) in [dracula/solidworks](https://github.com/dracula/solidworks)
 6. 🗣 Commented on [#2](https://github.com/dracula/solidworks/issues/2) in [dracula/solidworks](https://github.com/dracula/solidworks)
