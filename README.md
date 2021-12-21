@@ -42,12 +42,12 @@
 <h2 color="#ffb86c">Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/dracula/pandoc/issues/2) in [dracula/pandoc](https://github.com/dracula/pandoc)
-2. ❗️ Opened issue [#33](https://github.com/sbski/Renoir-Mobile-Tuning/issues/33) in [sbski/Renoir-Mobile-Tuning](https://github.com/sbski/Renoir-Mobile-Tuning)
-3. 🎉 Merged PR [#1](https://github.com/dracula/dunst/pull/1) in [dracula/dunst](https://github.com/dracula/dunst)
-4. 🗣 Commented on [#1](https://github.com/dracula/dunst/issues/1) in [dracula/dunst](https://github.com/dracula/dunst)
-5. ❗️ Closed issue [#3](https://github.com/dracula/libreoffice/issues/3) in [dracula/libreoffice](https://github.com/dracula/libreoffice)
-6. 🗣 Commented on [#3](https://github.com/dracula/libreoffice/issues/3) in [dracula/libreoffice](https://github.com/dracula/libreoffice)
-7. ❗️ Closed issue [#2](https://github.com/dracula/xournalpp/issues/2) in [dracula/xournalpp](https://github.com/dracula/xournalpp)
-8. 🗣 Commented on [#2](https://github.com/dracula/xournalpp/issues/2) in [dracula/xournalpp](https://github.com/dracula/xournalpp)
+1. 🗣 Commented on [#205](https://github.com/tulir/gomuks/issues/205) in [tulir/gomuks](https://github.com/tulir/gomuks)
+2. 🗣 Commented on [#2](https://github.com/dracula/pandoc/issues/2) in [dracula/pandoc](https://github.com/dracula/pandoc)
+3. ❗️ Opened issue [#33](https://github.com/sbski/Renoir-Mobile-Tuning/issues/33) in [sbski/Renoir-Mobile-Tuning](https://github.com/sbski/Renoir-Mobile-Tuning)
+4. 🎉 Merged PR [#1](https://github.com/dracula/dunst/pull/1) in [dracula/dunst](https://github.com/dracula/dunst)
+5. 🗣 Commented on [#1](https://github.com/dracula/dunst/issues/1) in [dracula/dunst](https://github.com/dracula/dunst)
+6. ❗️ Closed issue [#3](https://github.com/dracula/libreoffice/issues/3) in [dracula/libreoffice](https://github.com/dracula/libreoffice)
+7. 🗣 Commented on [#3](https://github.com/dracula/libreoffice/issues/3) in [dracula/libreoffice](https://github.com/dracula/libreoffice)
+8. ❗️ Closed issue [#2](https://github.com/dracula/xournalpp/issues/2) in [dracula/xournalpp](https://github.com/dracula/xournalpp)
 <!--END_SECTION:activity-->
