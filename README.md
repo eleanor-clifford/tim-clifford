@@ -42,12 +42,12 @@
 <h2 color="#ffb86c">Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15217](https://github.com/qmk/qmk_firmware/issues/15217) in [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware)
-2. 🗣 Commented on [#205](https://github.com/tulir/gomuks/issues/205) in [tulir/gomuks](https://github.com/tulir/gomuks)
-3. 🗣 Commented on [#2](https://github.com/dracula/pandoc/issues/2) in [dracula/pandoc](https://github.com/dracula/pandoc)
-4. ❗️ Opened issue [#33](https://github.com/sbski/Renoir-Mobile-Tuning/issues/33) in [sbski/Renoir-Mobile-Tuning](https://github.com/sbski/Renoir-Mobile-Tuning)
-5. 🎉 Merged PR [#1](https://github.com/dracula/dunst/pull/1) in [dracula/dunst](https://github.com/dracula/dunst)
-6. 🗣 Commented on [#1](https://github.com/dracula/dunst/issues/1) in [dracula/dunst](https://github.com/dracula/dunst)
-7. ❗️ Closed issue [#3](https://github.com/dracula/libreoffice/issues/3) in [dracula/libreoffice](https://github.com/dracula/libreoffice)
-8. 🗣 Commented on [#3](https://github.com/dracula/libreoffice/issues/3) in [dracula/libreoffice](https://github.com/dracula/libreoffice)
+1. 💪 Opened PR [#1](https://github.com/smh-my-head/slack-parrotbot/pull/1) in [smh-my-head/slack-parrotbot](https://github.com/smh-my-head/slack-parrotbot)
+2. 🗣 Commented on [#15217](https://github.com/qmk/qmk_firmware/issues/15217) in [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware)
+3. 🗣 Commented on [#205](https://github.com/tulir/gomuks/issues/205) in [tulir/gomuks](https://github.com/tulir/gomuks)
+4. 🗣 Commented on [#2](https://github.com/dracula/pandoc/issues/2) in [dracula/pandoc](https://github.com/dracula/pandoc)
+5. ❗️ Opened issue [#33](https://github.com/sbski/Renoir-Mobile-Tuning/issues/33) in [sbski/Renoir-Mobile-Tuning](https://github.com/sbski/Renoir-Mobile-Tuning)
+6. 🎉 Merged PR [#1](https://github.com/dracula/dunst/pull/1) in [dracula/dunst](https://github.com/dracula/dunst)
+7. 🗣 Commented on [#1](https://github.com/dracula/dunst/issues/1) in [dracula/dunst](https://github.com/dracula/dunst)
+8. ❗️ Closed issue [#3](https://github.com/dracula/libreoffice/issues/3) in [dracula/libreoffice](https://github.com/dracula/libreoffice)
 <!--END_SECTION:activity-->
