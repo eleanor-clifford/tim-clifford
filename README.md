@@ -42,12 +42,12 @@
 <h2 color="#ffb86c">Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/cuspaceflight/lychee/issues/1) in [cuspaceflight/lychee](https://github.com/cuspaceflight/lychee)
-2. 💪 Opened PR [#1](https://github.com/cuspaceflight/lychee/pull/1) in [cuspaceflight/lychee](https://github.com/cuspaceflight/lychee)
-3. 🎉 Merged PR [#2](https://github.com/cuspaceflight/slack-parrotbot/pull/2) in [cuspaceflight/slack-parrotbot](https://github.com/cuspaceflight/slack-parrotbot)
-4. 💪 Opened PR [#2](https://github.com/cuspaceflight/slack-parrotbot/pull/2) in [cuspaceflight/slack-parrotbot](https://github.com/cuspaceflight/slack-parrotbot)
-5. 🎉 Merged PR [#1](https://github.com/cuspaceflight/slack-parrotbot/pull/1) in [cuspaceflight/slack-parrotbot](https://github.com/cuspaceflight/slack-parrotbot)
-6. 💪 Opened PR [#1](https://github.com/smh-my-head/slack-parrotbot/pull/1) in [smh-my-head/slack-parrotbot](https://github.com/smh-my-head/slack-parrotbot)
-7. 🗣 Commented on [#15217](https://github.com/qmk/qmk_firmware/issues/15217) in [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware)
-8. 🗣 Commented on [#205](https://github.com/tulir/gomuks/issues/205) in [tulir/gomuks](https://github.com/tulir/gomuks)
+1. 💪 Opened PR [#2](https://github.com/cuspaceflight/buffalo/pull/2) in [cuspaceflight/buffalo](https://github.com/cuspaceflight/buffalo)
+2. 🗣 Commented on [#1](https://github.com/cuspaceflight/lychee/issues/1) in [cuspaceflight/lychee](https://github.com/cuspaceflight/lychee)
+3. 💪 Opened PR [#1](https://github.com/cuspaceflight/lychee/pull/1) in [cuspaceflight/lychee](https://github.com/cuspaceflight/lychee)
+4. 🎉 Merged PR [#2](https://github.com/cuspaceflight/slack-parrotbot/pull/2) in [cuspaceflight/slack-parrotbot](https://github.com/cuspaceflight/slack-parrotbot)
+5. 💪 Opened PR [#2](https://github.com/cuspaceflight/slack-parrotbot/pull/2) in [cuspaceflight/slack-parrotbot](https://github.com/cuspaceflight/slack-parrotbot)
+6. 🎉 Merged PR [#1](https://github.com/cuspaceflight/slack-parrotbot/pull/1) in [cuspaceflight/slack-parrotbot](https://github.com/cuspaceflight/slack-parrotbot)
+7. 💪 Opened PR [#1](https://github.com/smh-my-head/slack-parrotbot/pull/1) in [smh-my-head/slack-parrotbot](https://github.com/smh-my-head/slack-parrotbot)
+8. 🗣 Commented on [#15217](https://github.com/qmk/qmk_firmware/issues/15217) in [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware)
 <!--END_SECTION:activity-->
