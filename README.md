@@ -42,12 +42,12 @@
 <h2 color="#ffb86c">Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/dracula/libreoffice/pull/5) in [dracula/libreoffice](https://github.com/dracula/libreoffice)
-2. 🗣 Commented on [#5](https://github.com/dracula/libreoffice/issues/5) in [dracula/libreoffice](https://github.com/dracula/libreoffice)
-3. 🎉 Merged PR [#3](https://github.com/dracula/pandoc/pull/3) in [dracula/pandoc](https://github.com/dracula/pandoc)
-4. 🗣 Commented on [#3](https://github.com/dracula/pandoc/issues/3) in [dracula/pandoc](https://github.com/dracula/pandoc)
-5. 💪 Opened PR [#2](https://github.com/cuspaceflight/buffalo/pull/2) in [cuspaceflight/buffalo](https://github.com/cuspaceflight/buffalo)
-6. 🗣 Commented on [#1](https://github.com/cuspaceflight/lychee/issues/1) in [cuspaceflight/lychee](https://github.com/cuspaceflight/lychee)
-7. 💪 Opened PR [#1](https://github.com/cuspaceflight/lychee/pull/1) in [cuspaceflight/lychee](https://github.com/cuspaceflight/lychee)
-8. 🎉 Merged PR [#2](https://github.com/cuspaceflight/slack-parrotbot/pull/2) in [cuspaceflight/slack-parrotbot](https://github.com/cuspaceflight/slack-parrotbot)
+1. 🗣 Commented on [#2](https://github.com/dracula/freecad/issues/2) in [dracula/freecad](https://github.com/dracula/freecad)
+2. 🎉 Merged PR [#5](https://github.com/dracula/libreoffice/pull/5) in [dracula/libreoffice](https://github.com/dracula/libreoffice)
+3. 🗣 Commented on [#5](https://github.com/dracula/libreoffice/issues/5) in [dracula/libreoffice](https://github.com/dracula/libreoffice)
+4. 🎉 Merged PR [#3](https://github.com/dracula/pandoc/pull/3) in [dracula/pandoc](https://github.com/dracula/pandoc)
+5. 🗣 Commented on [#3](https://github.com/dracula/pandoc/issues/3) in [dracula/pandoc](https://github.com/dracula/pandoc)
+6. 💪 Opened PR [#2](https://github.com/cuspaceflight/buffalo/pull/2) in [cuspaceflight/buffalo](https://github.com/cuspaceflight/buffalo)
+7. 🗣 Commented on [#1](https://github.com/cuspaceflight/lychee/issues/1) in [cuspaceflight/lychee](https://github.com/cuspaceflight/lychee)
+8. 💪 Opened PR [#1](https://github.com/cuspaceflight/lychee/pull/1) in [cuspaceflight/lychee](https://github.com/cuspaceflight/lychee)
 <!--END_SECTION:activity-->
