@@ -42,12 +42,12 @@
 <h2 color="#ffb86c">Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#526](https://github.com/dracula/dracula-theme/issues/526) in [dracula/dracula-theme](https://github.com/dracula/dracula-theme)
-2. 🗣 Commented on [#7](https://github.com/dracula/libreoffice/issues/7) in [dracula/libreoffice](https://github.com/dracula/libreoffice)
-3. ❗️ Closed issue [#7](https://github.com/dracula/libreoffice/issues/7) in [dracula/libreoffice](https://github.com/dracula/libreoffice)
-4. 🗣 Commented on [#6](https://github.com/dracula/libreoffice/issues/6) in [dracula/libreoffice](https://github.com/dracula/libreoffice)
+1. 💪 Opened PR [#1](https://github.com/DaveDuck321/GF3_Audio_Modem/pull/1) in [DaveDuck321/GF3_Audio_Modem](https://github.com/DaveDuck321/GF3_Audio_Modem)
+2. 🗣 Commented on [#526](https://github.com/dracula/dracula-theme/issues/526) in [dracula/dracula-theme](https://github.com/dracula/dracula-theme)
+3. 🗣 Commented on [#7](https://github.com/dracula/libreoffice/issues/7) in [dracula/libreoffice](https://github.com/dracula/libreoffice)
+4. ❗️ Closed issue [#7](https://github.com/dracula/libreoffice/issues/7) in [dracula/libreoffice](https://github.com/dracula/libreoffice)
 5. 🗣 Commented on [#6](https://github.com/dracula/libreoffice/issues/6) in [dracula/libreoffice](https://github.com/dracula/libreoffice)
-6. ❗️ Closed issue [#6](https://github.com/dracula/libreoffice/issues/6) in [dracula/libreoffice](https://github.com/dracula/libreoffice)
-7. 🗣 Commented on [#2](https://github.com/dracula/freecad/issues/2) in [dracula/freecad](https://github.com/dracula/freecad)
-8. 🎉 Merged PR [#5](https://github.com/dracula/libreoffice/pull/5) in [dracula/libreoffice](https://github.com/dracula/libreoffice)
+6. 🗣 Commented on [#6](https://github.com/dracula/libreoffice/issues/6) in [dracula/libreoffice](https://github.com/dracula/libreoffice)
+7. ❗️ Closed issue [#6](https://github.com/dracula/libreoffice/issues/6) in [dracula/libreoffice](https://github.com/dracula/libreoffice)
+8. 🗣 Commented on [#2](https://github.com/dracula/freecad/issues/2) in [dracula/freecad](https://github.com/dracula/freecad)
 <!--END_SECTION:activity-->
