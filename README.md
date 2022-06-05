@@ -42,12 +42,12 @@
 <h2 color="#ffb86c">Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/DaveDuck321/GF3_Audio_Modem/pull/6) in [DaveDuck321/GF3_Audio_Modem](https://github.com/DaveDuck321/GF3_Audio_Modem)
-2. 🎉 Merged PR [#4](https://github.com/DaveDuck321/GF3_Audio_Modem/pull/4) in [DaveDuck321/GF3_Audio_Modem](https://github.com/DaveDuck321/GF3_Audio_Modem)
-3. 💪 Opened PR [#3](https://github.com/DaveDuck321/GF3_Audio_Modem/pull/3) in [DaveDuck321/GF3_Audio_Modem](https://github.com/DaveDuck321/GF3_Audio_Modem)
-4. 💪 Opened PR [#1](https://github.com/DaveDuck321/GF3_Audio_Modem/pull/1) in [DaveDuck321/GF3_Audio_Modem](https://github.com/DaveDuck321/GF3_Audio_Modem)
-5. 🗣 Commented on [#526](https://github.com/dracula/dracula-theme/issues/526) in [dracula/dracula-theme](https://github.com/dracula/dracula-theme)
-6. 🗣 Commented on [#7](https://github.com/dracula/libreoffice/issues/7) in [dracula/libreoffice](https://github.com/dracula/libreoffice)
-7. ❗️ Closed issue [#7](https://github.com/dracula/libreoffice/issues/7) in [dracula/libreoffice](https://github.com/dracula/libreoffice)
-8. 🗣 Commented on [#6](https://github.com/dracula/libreoffice/issues/6) in [dracula/libreoffice](https://github.com/dracula/libreoffice)
+1. 🎉 Merged PR [#1](https://github.com/dracula/matplotlib/pull/1) in [dracula/matplotlib](https://github.com/dracula/matplotlib)
+2. 💪 Opened PR [#6](https://github.com/DaveDuck321/GF3_Audio_Modem/pull/6) in [DaveDuck321/GF3_Audio_Modem](https://github.com/DaveDuck321/GF3_Audio_Modem)
+3. 🎉 Merged PR [#4](https://github.com/DaveDuck321/GF3_Audio_Modem/pull/4) in [DaveDuck321/GF3_Audio_Modem](https://github.com/DaveDuck321/GF3_Audio_Modem)
+4. 💪 Opened PR [#3](https://github.com/DaveDuck321/GF3_Audio_Modem/pull/3) in [DaveDuck321/GF3_Audio_Modem](https://github.com/DaveDuck321/GF3_Audio_Modem)
+5. 💪 Opened PR [#1](https://github.com/DaveDuck321/GF3_Audio_Modem/pull/1) in [DaveDuck321/GF3_Audio_Modem](https://github.com/DaveDuck321/GF3_Audio_Modem)
+6. 🗣 Commented on [#526](https://github.com/dracula/dracula-theme/issues/526) in [dracula/dracula-theme](https://github.com/dracula/dracula-theme)
+7. 🗣 Commented on [#7](https://github.com/dracula/libreoffice/issues/7) in [dracula/libreoffice](https://github.com/dracula/libreoffice)
+8. ❗️ Closed issue [#7](https://github.com/dracula/libreoffice/issues/7) in [dracula/libreoffice](https://github.com/dracula/libreoffice)
 <!--END_SECTION:activity-->
