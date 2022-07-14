@@ -42,12 +42,12 @@
 <h2 color="#ffb86c">Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/dracula/freecad/issues/4) in [dracula/freecad](https://github.com/dracula/freecad)
-2. 🗣 Commented on [#2](https://github.com/dracula/freecad/issues/2) in [dracula/freecad](https://github.com/dracula/freecad)
-3. ❗️ Closed issue [#2](https://github.com/dracula/freecad/issues/2) in [dracula/freecad](https://github.com/dracula/freecad)
-4. 🎉 Merged PR [#3](https://github.com/dracula/freecad/pull/3) in [dracula/freecad](https://github.com/dracula/freecad)
-5. 🗣 Commented on [#3](https://github.com/dracula/freecad/issues/3) in [dracula/freecad](https://github.com/dracula/freecad)
-6. 🗣 Commented on [#3](https://github.com/dracula/freecad/issues/3) in [dracula/freecad](https://github.com/dracula/freecad)
-7. 🗣 Commented on [#10](https://github.com/dracula/libreoffice/issues/10) in [dracula/libreoffice](https://github.com/dracula/libreoffice)
-8. 🗣 Commented on [#8](https://github.com/dracula/libreoffice/issues/8) in [dracula/libreoffice](https://github.com/dracula/libreoffice)
+1. 🎉 Merged PR [#6](https://github.com/dracula/freecad/pull/6) in [dracula/freecad](https://github.com/dracula/freecad)
+2. 🗣 Commented on [#6](https://github.com/dracula/freecad/issues/6) in [dracula/freecad](https://github.com/dracula/freecad)
+3. ❗️ Closed issue [#7](https://github.com/dracula/freecad/issues/7) in [dracula/freecad](https://github.com/dracula/freecad)
+4. 🗣 Commented on [#7](https://github.com/dracula/freecad/issues/7) in [dracula/freecad](https://github.com/dracula/freecad)
+5. ❗️ Closed issue [#8](https://github.com/dracula/freecad/issues/8) in [dracula/freecad](https://github.com/dracula/freecad)
+6. 🗣 Commented on [#8](https://github.com/dracula/freecad/issues/8) in [dracula/freecad](https://github.com/dracula/freecad)
+7. 🗣 Commented on [#4](https://github.com/dracula/freecad/issues/4) in [dracula/freecad](https://github.com/dracula/freecad)
+8. 🗣 Commented on [#2](https://github.com/dracula/freecad/issues/2) in [dracula/freecad](https://github.com/dracula/freecad)
 <!--END_SECTION:activity-->
