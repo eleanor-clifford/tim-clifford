@@ -42,12 +42,12 @@
 <h2 color="#ffb86c">Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/dracula/freecad/issues/3) in [dracula/freecad](https://github.com/dracula/freecad)
-2. 🗣 Commented on [#3](https://github.com/dracula/freecad/issues/3) in [dracula/freecad](https://github.com/dracula/freecad)
-3. 🗣 Commented on [#10](https://github.com/dracula/libreoffice/issues/10) in [dracula/libreoffice](https://github.com/dracula/libreoffice)
-4. 🗣 Commented on [#8](https://github.com/dracula/libreoffice/issues/8) in [dracula/libreoffice](https://github.com/dracula/libreoffice)
-5. 🎉 Merged PR [#1](https://github.com/dracula/matplotlib/pull/1) in [dracula/matplotlib](https://github.com/dracula/matplotlib)
-6. 💪 Opened PR [#6](https://github.com/DaveDuck321/GF3_Audio_Modem/pull/6) in [DaveDuck321/GF3_Audio_Modem](https://github.com/DaveDuck321/GF3_Audio_Modem)
-7. 🎉 Merged PR [#4](https://github.com/DaveDuck321/GF3_Audio_Modem/pull/4) in [DaveDuck321/GF3_Audio_Modem](https://github.com/DaveDuck321/GF3_Audio_Modem)
-8. 💪 Opened PR [#3](https://github.com/DaveDuck321/GF3_Audio_Modem/pull/3) in [DaveDuck321/GF3_Audio_Modem](https://github.com/DaveDuck321/GF3_Audio_Modem)
+1. 🗣 Commented on [#4](https://github.com/dracula/freecad/issues/4) in [dracula/freecad](https://github.com/dracula/freecad)
+2. 🗣 Commented on [#2](https://github.com/dracula/freecad/issues/2) in [dracula/freecad](https://github.com/dracula/freecad)
+3. ❗️ Closed issue [#2](https://github.com/dracula/freecad/issues/2) in [dracula/freecad](https://github.com/dracula/freecad)
+4. 🎉 Merged PR [#3](https://github.com/dracula/freecad/pull/3) in [dracula/freecad](https://github.com/dracula/freecad)
+5. 🗣 Commented on [#3](https://github.com/dracula/freecad/issues/3) in [dracula/freecad](https://github.com/dracula/freecad)
+6. 🗣 Commented on [#3](https://github.com/dracula/freecad/issues/3) in [dracula/freecad](https://github.com/dracula/freecad)
+7. 🗣 Commented on [#10](https://github.com/dracula/libreoffice/issues/10) in [dracula/libreoffice](https://github.com/dracula/libreoffice)
+8. 🗣 Commented on [#8](https://github.com/dracula/libreoffice/issues/8) in [dracula/libreoffice](https://github.com/dracula/libreoffice)
 <!--END_SECTION:activity-->
