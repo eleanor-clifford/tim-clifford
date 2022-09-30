@@ -42,12 +42,12 @@
 <h2 color="#ffb86c">Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/SRCF/srcf-web/issues/43) in [SRCF/srcf-web](https://github.com/SRCF/srcf-web)
-2. ❗️ Opened issue [#49](https://github.com/moritzgloeckl/overleaf-sync/issues/49) in [moritzgloeckl/overleaf-sync](https://github.com/moritzgloeckl/overleaf-sync)
-3. 🗣 Commented on [#4](https://github.com/dracula/freecad/issues/4) in [dracula/freecad](https://github.com/dracula/freecad)
-4. ❗️ Closed issue [#4](https://github.com/dracula/freecad/issues/4) in [dracula/freecad](https://github.com/dracula/freecad)
-5. 🎉 Merged PR [#6](https://github.com/dracula/freecad/pull/6) in [dracula/freecad](https://github.com/dracula/freecad)
-6. 🗣 Commented on [#6](https://github.com/dracula/freecad/issues/6) in [dracula/freecad](https://github.com/dracula/freecad)
-7. ❗️ Closed issue [#7](https://github.com/dracula/freecad/issues/7) in [dracula/freecad](https://github.com/dracula/freecad)
-8. 🗣 Commented on [#7](https://github.com/dracula/freecad/issues/7) in [dracula/freecad](https://github.com/dracula/freecad)
+1. 💪 Opened PR [#1](https://github.com/Barty129/symmetrical-enigma/pull/1) in [Barty129/symmetrical-enigma](https://github.com/Barty129/symmetrical-enigma)
+2. 🗣 Commented on [#43](https://github.com/SRCF/srcf-web/issues/43) in [SRCF/srcf-web](https://github.com/SRCF/srcf-web)
+3. ❗️ Opened issue [#49](https://github.com/moritzgloeckl/overleaf-sync/issues/49) in [moritzgloeckl/overleaf-sync](https://github.com/moritzgloeckl/overleaf-sync)
+4. 🗣 Commented on [#4](https://github.com/dracula/freecad/issues/4) in [dracula/freecad](https://github.com/dracula/freecad)
+5. ❗️ Closed issue [#4](https://github.com/dracula/freecad/issues/4) in [dracula/freecad](https://github.com/dracula/freecad)
+6. 🎉 Merged PR [#6](https://github.com/dracula/freecad/pull/6) in [dracula/freecad](https://github.com/dracula/freecad)
+7. 🗣 Commented on [#6](https://github.com/dracula/freecad/issues/6) in [dracula/freecad](https://github.com/dracula/freecad)
+8. ❗️ Closed issue [#7](https://github.com/dracula/freecad/issues/7) in [dracula/freecad](https://github.com/dracula/freecad)
 <!--END_SECTION:activity-->
